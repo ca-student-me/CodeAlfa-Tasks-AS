@@ -79,7 +79,7 @@ loginRegistrationSystem.exe
 
 * **Name:** CodeAlfa Student  
 * **Internship:** CodeAlfa C++ Virtual Internship
-* **Task:** Task 1 – Login/Registration System
+* **Task:** Task 2 – Login/Registration System
 
 ```
 
