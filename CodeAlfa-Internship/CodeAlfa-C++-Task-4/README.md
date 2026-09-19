@@ -63,3 +63,21 @@ g++ -std=c++11 -o bank_system main.cpp
 # Run the executable
 bank_system.exe
 ```
+
+
+### 2. Using an IDE (Dev-C++ / Code::Blocks / Visual Studio):
+
+1. Open your IDE and create a new C++ console project.
+2. Paste the source code into `main.cpp`.
+3. Click **Build & Run** (or press `F11` / `F9` depending on your IDE).
+
+---
+
+## 👤 Author
+
+* **Name:** CodeAlfa Student  
+* **Internship:** CodeAlfa C++ Virtual Internship
+* **Task:** Task 4 – Banking Management System
+
+```
+
