@@ -79,7 +79,7 @@ sudoku_solver.exe
 
 * **Name:** CodeAlfa Student  
 * **Internship:** CodeAlfa C++ Virtual Internship
-* **Task:** Task 1 – Login/Registration System
+* **Task:** Task 3 – Sudoku Solver
 
 ```
 
