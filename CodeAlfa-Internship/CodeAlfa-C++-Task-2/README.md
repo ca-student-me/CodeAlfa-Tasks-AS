@@ -43,12 +43,11 @@ The application utilizes the Windows Console API (`windows.h`) to deliver intera
 4. **Verification:** During login, the entered password is independently hashed and matched against the file entry for that username.
 
 ---
-
 ## 💻 Tech Stack & Requirements
 
-- **Language:** C++ (C++11 or later required for `<functional>` hashing)
-- **Operating System:** Windows (relies on `<windows.h>` for console color-coding)
-- **Supported Compilers & IDEs:**
+- **Language:** C++ (C++11 or later recommended)
+- **Operating System:** Windows (utilizes `<windows.h>` for console styling)
+- **Supported IDEs / Compilers:**
   - MinGW / GCC (`g++`)
   - Dev-C++
   - Code::Blocks
@@ -60,8 +59,28 @@ The application utilizes the Windows Console API (`windows.h`) to deliver intera
 
 ### 1. Using GCC / MinGW via Command Line:
 ```bash
-# Compile the code
-g++ -std=c++11 -o auth_system main.cpp
+# Compile the source code
+g++ -o cgpa_calculator main.cpp
 
-# Run the application
-auth_system.exe
+# Run the executable
+cgpa_calculator.exe
+
+```
+
+### 2. Using an IDE (Dev-C++ / Code::Blocks / Visual Studio):
+
+1. Open your IDE and create a new C++ console project.
+2. Paste the source code into `main.cpp`.
+3. Click **Build & Run** (or press `F11` / `F9` depending on your IDE).
+
+---
+
+## 👤 Author
+
+* **Name:** CodeAlfa Student  
+* **Internship:** CodeAlfa C++ Virtual Internship
+* **Task:** Task 1 – CGPA Calculator
+
+```
+
+```
