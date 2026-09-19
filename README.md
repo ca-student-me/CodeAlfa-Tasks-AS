@@ -19,7 +19,7 @@ The primary objective of this virtual internship was to apply modern C++ program
 
 ## 👤 Intern Profile
 
-- **Author:** Syed Muhammad Sajawal Hussain
+- **Author:** CodeAlfa Student
 - **Organization:** CodeAlfa
 - **Role:** C++ Programming Virtual Intern
 - **Completion Date:** September 2026
@@ -95,7 +95,7 @@ task4_bank.exe
 
 ## 📜 Copyright & License
 
-© 2026 Syed Muhammad Sajawal Hussain. All rights reserved.
+© 2026 CodeAlfa Student. All rights reserved.
 
 This repository and its codebase were developed solely for educational and training purposes as part of the CodeAlfa Virtual Internship. Unauthorized redistribution or commercial use without prior permission is strictly prohibited.
 
