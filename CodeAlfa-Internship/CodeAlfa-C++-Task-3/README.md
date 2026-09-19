@@ -57,7 +57,7 @@ If no valid candidate exists for an empty cell, the algorithm triggers a **backt
   - Code::Blocks
   - Visual Studio / VS Code with MinGW
 
----
+```
 
 ## 🚀 How to Compile & Run
 
