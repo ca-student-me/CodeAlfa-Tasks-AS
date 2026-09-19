@@ -3,7 +3,7 @@
 **Virtual Internship Task - 4**  
 **Organization:** CodeAlfa  
 **Domain:** C++ Programming  
-**Author:** Syed Muhammad Sajawal Hussain  
+**Author:** CodeAlfa Student 
 
 ---
 
