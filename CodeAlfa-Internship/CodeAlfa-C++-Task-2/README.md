@@ -60,10 +60,10 @@ The application utilizes the Windows Console API (`windows.h`) to deliver intera
 ### 1. Using GCC / MinGW via Command Line:
 ```bash
 # Compile the source code
-g++ -o cgpa_calculator main.cpp
+g++ -o loginRegistrationSystem.cpp
 
 # Run the executable
-cgpa_calculator.exe
+loginRegistrationSystem.exe
 
 ```
 
@@ -79,7 +79,7 @@ cgpa_calculator.exe
 
 * **Name:** CodeAlfa Student  
 * **Internship:** CodeAlfa C++ Virtual Internship
-* **Task:** Task 1 – CGPA Calculator
+* **Task:** Task 1 – Login/Registration System
 
 ```
 
