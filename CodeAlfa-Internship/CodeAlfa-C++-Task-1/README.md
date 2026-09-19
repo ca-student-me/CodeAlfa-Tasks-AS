@@ -4,7 +4,7 @@
 **Virtual Internship Task - 1**  
 **Organization:** CodeAlfa  
 **Domain:** C++ Programming  
-**Author:** Syed Muhammad Sajawal Hussain  
+**Author:** CodeAlfa Student  
 
 ---
 
@@ -85,7 +85,7 @@ cgpa_calculator.exe
 
 ## 👤 Author
 
-* **Name:** Syed Muhammad Sajawal Hussain
+* **Name:** CodeAlfa Student  
 * **Internship:** CodeAlfa C++ Virtual Internship
 * **Task:** Task 1 – CGPA Calculator
 
